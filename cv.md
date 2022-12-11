@@ -17,3 +17,15 @@ Then I began to develop in copywriting and SMM. I worked a lot with IT companies
 My main skills are stress tolerance, high learning ability, friendliness, perseverance, time management.
 
 ## Skills and Proficiency:
+- HTML
+- CSS 
+- SQL 
+- Git
+- GitHub
+- Editors: VS Code, Sublime Text 
+- Adobe Photoshop, Adobe Premiere Pro, Figma, Canva 
+
+## Education
+**University:** Leningrad state University named after A. S. Pushkin
+
+**Courses:** 
