@@ -29,3 +29,8 @@ My main skills are stress tolerance, high learning ability, friendliness, persev
 **University:** Leningrad state University named after A. S. Pushkin
 
 **Courses:** 
+
+- SMM manager, Netology
+- Web development for beginners: HTML and CSS, Stepik.org
+- HTML Academy (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
