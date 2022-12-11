@@ -34,3 +34,7 @@ My main skills are stress tolerance, high learning ability, friendliness, persev
 - Web development for beginners: HTML and CSS, Stepik.org
 - HTML Academy (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+  
+## Languages
+- **Russian** - native speaker
+- **English** - A2 (B1 in process)
