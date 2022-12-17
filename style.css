@@ -99,7 +99,6 @@ padding: 0 30px;
 font-size: 20px;
 line-height: 50px;
 color: #FFFFFF;
-
 }
 
 
@@ -112,6 +111,35 @@ color: #FFFFFF;
 
 }
 
+.heading-information {
+
+    padding-left: 60px;
+    
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #6B9999;
+
+
+
+}
+
+.aboutme-p {
+
+    font-size: 25px;
+    color: #6B9999;
+    padding-left: 60px;
+
+}
+
+.information-list {
+    list-style: none;
+    padding-left: 60px;
+    
+    font-size: 20px;
+    line-height: 40px;
+    color: #6B9999;
+    }
+    
 
 .footer {
 
@@ -120,3 +148,5 @@ color: #FFFFFF;
     background-color: #D1D1D1;
     
 }
+
+
