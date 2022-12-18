@@ -20,7 +20,7 @@ body {
 
 .section-one {
   position: relative;
-  height: 350px;
+  height: 395px;
   width: 100%;
   margin-top: 40px;
   background-color: #ebc9bb;
@@ -28,7 +28,7 @@ body {
 
 .name {
   position: absolute;
-  bottom: 80px;
+  top: 50px;
   left: 600px;
   width: 150px;
 
@@ -50,12 +50,35 @@ body {
 
 .specialization {
   position: absolute;
-  bottom: 60px;
+  top: 220px;
   left: 600px;
 
   font-size: 10;
   text-transform: uppercase;
 }
+
+.nav {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0; 
+  background-color: #F4DADA;    
+
+}
+
+.nav-ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+
 .flex {
   display: flex;
 }
